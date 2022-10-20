@@ -1,0 +1,37 @@
+FONTLOG for the Chanighter Handwriting fonts
+
+This file provides detailed information on the Chanighter Handwriting Font Software.
+This information should be distributed along with the Chanighter Handwriting fonts
+and any derivative works.
+
+Basic Font Information
+
+Chanighter Handwriting is a Unicode typeface family that supports basic Latin
+script and some symbols, and could be expanded to support other scripts.
+This is all-uppercase handwriting fonts specially designed for comics.
+This was designed by modifying the capture of Sin Chanighter's handwriting.
+
+Chanighter Handwriting is released under the SIL Open Font License (OFL) 
+Version 1.1 (http://scripts.sil.org/OFL). See OFL.txt and OFL-FAQ.txt for details.
+
+This release contains
+- ChanighterHandwriting-Regular.ttf
+- ChanighterHandwriting-Bold.ttf
+
+Documentation can be found at 
+https://github.com/chanighter/chanighter-handwriting
+
+ChangeLog
+
+20 Oct 2022 (Sin Chanighter) Chanighter Handwriting Version 1.001
+- Initial release
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Sin Chanighter
+E: contact@chanighter.com
+W: https://www.chanighter.com
+D: Original Designer
